@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "wish simulator genshin_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=e6aecf7e902bda18b458ff260c73df7687b2f5d8-3838812-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=6058d008b0a08b62deb3dbdb513f9f51a9f0bfc0-10471476-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=1d1f37d6666dc208f1aa22fcc473ba45c4275136-5221296-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=438f27c1d6df31f7b836ef8dec40c1416bbe7e4e-8906573-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=1d1f37d6666dc208f1aa22fcc473ba45c4275136-5221296-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=a7565faf5f60311753a6936b2c2c1692475b5e90-9744150-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=500bd8ce99b227871b997ee87cf729c13ed9eedc-8901646-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=1d1f37d6666dc208f1aa22fcc473ba45c4275136-5221296-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_1",
+          "path": "https://avatars.mds.yandex.net/i?id=6058d008b0a08b62deb3dbdb513f9f51a9f0bfc0-10471476-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "wish simulator genshin_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=55ba7a43fbf854ee8e76cd5e2ce066d722b5158c-7973815-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=84f7ca87c09a03e7e3576066fd2538e4e8d17126-10809692-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=500bd8ce99b227871b997ee87cf729c13ed9eedc-8901646-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=383edb59d22b5821596846f2f49dd9e44e7ab38b-10603993-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=30d9fe9e36224577d64edd32e1a7a2d1a3267b4a-9870356-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=383edb59d22b5821596846f2f49dd9e44e7ab38b-10603993-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1cb78dc75b240e1850eb1c844bf3f95b29400de6-5680793-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=509305e86b847b198a497270f9dff8172650ca33-9036873-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_2",
+          "path": "https://avatars.mds.yandex.net/i?id=e773389582950b4fb3222ed0c949a7ef53f25696-8082760-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "wish simulator genshin_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=6b2563f4953e96985a1d0cc52f93d4c8d350cfa6-9065887-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=e37f148dd84039ad054587c0fff402ecac044458-9147977-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=c4d0e1a9370a65489e6e70e74f7c113811244073-10311822-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=486f78bff9ac463d9e25ad680d186fdbbda7928c-9291460-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=486f78bff9ac463d9e25ad680d186fdbbda7928c-9291460-images-thumbs&n=13"
         },
         {
           "id": 4,
           "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=6642d41efad1d39ac5b392c24cb33fd53c2c4466-7068603-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=c2843c6210545f56a30e6615b0b824f0f9cc1c9b-9106738-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=e505d0305fd383eb58e7737ad677298e161a829c-10467945-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wish simulator genshin_3",
+          "path": "https://avatars.mds.yandex.net/i?id=73ec2477b6d18ea7ac0febba2207978a9ca1ba6a-5209794-images-thumbs&n=13"
         }
       ]
     }
